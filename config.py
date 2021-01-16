@@ -24,7 +24,7 @@ disabled_plugins = []
 
 
 # API keys
-TENOR_API_KEY = ""
+TENOR_API_KEY = "U03W5ZB3MC7D"
 
 
 # Bot version, do not touch this
